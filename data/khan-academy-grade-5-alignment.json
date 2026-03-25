@@ -1,0 +1,231 @@
+{
+  "source": "Khan Academy",
+  "course_url": "https://www.khanacademy.org/math/5th-engage-ny",
+  "grade": 5,
+  "generated_at": "2026-03-25T15:32:43Z",
+  "note": "URLs follow Khan Academy's predictable pattern for EngageNY-aligned content. Topic titles sourced from EMBARC sitemap. Some URLs may not resolve if Khan Academy doesn't have content for every topic.",
+  "modules": [
+    {
+      "number": 1,
+      "title": "Place Value and Decimal Fractions",
+      "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-1",
+      "topics": [
+        {
+          "letter": "A",
+          "title": "Multiplicative Patterns on the Place Value Chart",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-1/5th-module-1-topic-a"
+        },
+        {
+          "letter": "B",
+          "title": "Decimal Fractions and Place Value Patterns",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-1/5th-module-1-topic-b"
+        },
+        {
+          "letter": "C",
+          "title": "Place Value and Rounding Decimal Fractions",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-1/5th-module-1-topic-c"
+        },
+        {
+          "letter": "D",
+          "title": "Adding and Subtracting Decimals",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-1/5th-module-1-topic-d"
+        },
+        {
+          "letter": "E",
+          "title": "Multiplying Decimals",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-1/5th-module-1-topic-e"
+        },
+        {
+          "letter": "F",
+          "title": "Dividing Decimals",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-1/5th-module-1-topic-f"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Multi-Digit Whole Number and Decimal Fraction Operations",
+      "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-2",
+      "topics": [
+        {
+          "letter": "A",
+          "title": "Mental Strategies for Multi-Digit Whole Number Multiplication",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-2/5th-module-2-topic-a"
+        },
+        {
+          "letter": "B",
+          "title": "The Standard Algorithm for Multi-Digit Whole Number Multiplication",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-2/5th-module-2-topic-b"
+        },
+        {
+          "letter": "C",
+          "title": "Decimal Multi-Digit Multiplication",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-2/5th-module-2-topic-c"
+        },
+        {
+          "letter": "D",
+          "title": "Measurement Word Problems with Whole Number and Decimal Multiplication",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-2/5th-module-2-topic-d"
+        },
+        {
+          "letter": "E",
+          "title": "Mental Strategies for Multi-Digit Whole Number Division",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-2/5th-module-2-topic-e"
+        },
+        {
+          "letter": "F",
+          "title": "Partial Quotients and Multi-Digit Whole Number Division",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-2/5th-module-2-topic-f"
+        },
+        {
+          "letter": "G",
+          "title": "Partial Quotients and Decimal Multi-Digit Division",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-2/5th-module-2-topic-g"
+        },
+        {
+          "letter": "H",
+          "title": "Measurement Word Problems with Multi-Digit Division",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-2/5th-module-2-topic-h"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Addition and Subtraction of Fractions",
+      "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-3",
+      "topics": [
+        {
+          "letter": "A",
+          "title": "Equivalent Fractions",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-3/5th-module-3-topic-a"
+        },
+        {
+          "letter": "B",
+          "title": "Making Like Units Pictorially",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-3/5th-module-3-topic-b"
+        },
+        {
+          "letter": "C",
+          "title": "Making Like Units Numerically",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-3/5th-module-3-topic-c"
+        },
+        {
+          "letter": "D",
+          "title": "Further Applications",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-3/5th-module-3-topic-d"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Multiplication and Division of Fractions and Decimal Fractions",
+      "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-4",
+      "topics": [
+        {
+          "letter": "A",
+          "title": "Line Plots of Fraction Measurements",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-4/5th-module-4-topic-a"
+        },
+        {
+          "letter": "B",
+          "title": "Fractions as Division",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-4/5th-module-4-topic-b"
+        },
+        {
+          "letter": "C",
+          "title": "Multiplication of a Whole Number by a Fraction",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-4/5th-module-4-topic-c"
+        },
+        {
+          "letter": "D",
+          "title": "Fraction Expressions and Word Problems",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-4/5th-module-4-topic-d"
+        },
+        {
+          "letter": "E",
+          "title": "Multiplication of a Fraction by a Fraction",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-4/5th-module-4-topic-e"
+        },
+        {
+          "letter": "F",
+          "title": "Multiplication with Fractions and Decimals as Scaling and Word Problems",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-4/5th-module-4-topic-f"
+        },
+        {
+          "letter": "G",
+          "title": "Division of Fractions and Decimal Fractions",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-4/5th-module-4-topic-g"
+        },
+        {
+          "letter": "H",
+          "title": "Interpretation of Numerical Expressions",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-4/5th-module-4-topic-h"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Addition and Multiplication with Volume and Area",
+      "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-5",
+      "topics": [
+        {
+          "letter": "A",
+          "title": "Concepts of Volume",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-5/5th-module-5-topic-a"
+        },
+        {
+          "letter": "B",
+          "title": "Volume and the Operations of Multiplication and Addition",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-5/5th-module-5-topic-b"
+        },
+        {
+          "letter": "C",
+          "title": "Area of Rectangular Figures with Fractional Side Lengths",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-5/5th-module-5-topic-c"
+        },
+        {
+          "letter": "D",
+          "title": "Drawing, Analysis, and Classification of Two-Dimensional Shapes",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-5/5th-module-5-topic-d"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Problem Solving with the Coordinate Plane",
+      "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-6",
+      "topics": [
+        {
+          "letter": "A",
+          "title": "Coordinate Systems",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-6/5th-module-6-topic-a"
+        },
+        {
+          "letter": "B",
+          "title": "Patterns in the Coordinate Plane and Graphing Number Patterns from Rules",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-6/5th-module-6-topic-b"
+        },
+        {
+          "letter": "C",
+          "title": "Drawing Figures in the Coordinate Plane",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-6/5th-module-6-topic-c"
+        },
+        {
+          "letter": "D",
+          "title": "Problem Solving in the Coordinate Plane",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-6/5th-module-6-topic-d"
+        },
+        {
+          "letter": "E",
+          "title": "Multi-Step Word Problems",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-6/5th-module-6-topic-e"
+        },
+        {
+          "letter": "F",
+          "title": "The Years In Review: A Reflection on A Story of Units",
+          "khan_url": "https://www.khanacademy.org/math/5th-engage-ny/engage-5th-module-6/5th-module-6-topic-f"
+        }
+      ]
+    }
+  ]
+}

@@ -27,10 +27,11 @@ class SupplementalResource < ApplicationRecord
     smartboard
     promethean_flipchart
     go_formative
+    khan_practice
     other
   ].freeze
 
-  SOURCES = %w[embarc].freeze
+  SOURCES = %w[embarc khan_academy].freeze
 
   validates :resource_type, inclusion: { in: RESOURCE_TYPES }
   validates :source, inclusion: { in: SOURCES }
