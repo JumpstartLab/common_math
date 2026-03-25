@@ -1,0 +1,1568 @@
+[
+  {
+    "file": "math-g5-m4-topic-f-lesson-21.docx",
+    "text": "3 4 × 5 5 .     8 8 × 3 4 .     100 100 × 3 4",
+    "elements": [
+      "ctrlPr",
+      "den",
+      "f",
+      "fPr",
+      "i",
+      "nor",
+      "num",
+      "r",
+      "rFonts",
+      "rPr",
+      "sty",
+      "sym",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:f>\n    <m:fPr>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:fPr>\n    <m:num>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>3</m:t>\n      </m:r>\n    </m:num>\n    <m:den>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>4</m:t>\n      </m:r>\n    </m:den>\n  </m:f>\n  <m:r>\n    <m:rPr>\n      <m:nor/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:asciiTheme=\"minorHAnsi\" w:hAnsiTheme=\"minorHAnsi\"/>\n    </w:rPr>\n    <m:t>×</m:t>\n  </m:r>\n  <m:f>\n    <m:fPr>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:fPr>\n    <m:num>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>5</m:t>\n      </m:r>\n    </m:num>\n    <m:den>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>5</m:t>\n      </m:r>\n    </m:den>\n  </m:f>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\">.  </m:t>\n  </m:r>\n  <m:r>\n    <m:rPr>\n      <m:sty m:val=\"p\"/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <w:sym w:font=\"Wingdings\" w:char=\"F0E0\"/>\n  </m:r>\n  <m:r>\n    <m:rPr>\n      <m:sty m:val=\"p\"/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n  <m:f>\n    <m:fPr>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:fPr>\n    <m:num>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>8</m:t>\n      </m:r>\n    </m:num>\n    <m:den>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>8</m:t>\n      </m:r>\n    </m:den>\n  </m:f>\n  <m:r>\n    <m:rPr>\n      <m:nor/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:asciiTheme=\"minorHAnsi\" w:hAnsiTheme=\"minorHAnsi\"/>\n    </w:rPr>\n    <m:t>×</m:t>\n  </m:r>\n  <m:f>\n    <m:fPr>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:fPr>\n    <m:num>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>3</m:t>\n      </m:r>\n    </m:num>\n    <m:den>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>4</m:t>\n      </m:r>\n    </m:den>\n  </m:f>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\">.  </m:t>\n  </m:r>\n  <m:r>\n    <m:rPr>\n      <m:sty m:val=\"p\"/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <w:sym w:font=\"Wingdings\" w:char=\"F0E0\"/>\n  </m:r>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n  <m:f>\n    <m:fPr>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:fPr>\n    <m:num>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>100</m:t>\n      </m:r>\n    </m:num>\n    <m:den>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>100</m:t>\n      </m:r>\n    </m:den>\n  </m:f>\n  <m:r>\n    <m:rPr>\n      <m:nor/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:asciiTheme=\"minorHAnsi\" w:hAnsiTheme=\"minorHAnsi\"/>\n    </w:rPr>\n    <m:t>×</m:t>\n  </m:r>\n  <m:f>\n    <m:fPr>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:fPr>\n    <m:num>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>3</m:t>\n      </m:r>\n    </m:num>\n    <m:den>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>4</m:t>\n      </m:r>\n    </m:den>\n  </m:f>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `mathml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issu"
+  },
+  {
+    "file": "math-g5-m5-end-of-module-assessment.docx",
+    "text": "1 8 1/8",
+    "elements": [
+      "ctrlPr",
+      "del",
+      "den",
+      "f",
+      "fPr",
+      "i",
+      "ins",
+      "num",
+      "r",
+      "rFonts",
+      "rPr",
+      "sz",
+      "szCs",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:f>\n    <m:fPr>\n      <m:ctrlPr>\n        <w:ins w:id=\"7\" w:author=\"Jennifer Hutchinson\" w:date=\"2015-07-21T15:46:00Z\">\n          <w:rPr>\n            <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n            <w:i/>\n            <w:sz w:val=\"18\"/>\n            <w:szCs w:val=\"18\"/>\n          </w:rPr>\n        </w:ins>\n      </m:ctrlPr>\n    </m:fPr>\n    <m:num>\n      <m:r>\n        <w:ins w:id=\"8\" w:author=\"Jennifer Hutchinson\" w:date=\"2015-07-21T15:46:00Z\">\n          <w:rPr>\n            <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n            <w:sz w:val=\"18\"/>\n            <w:szCs w:val=\"18\"/>\n          </w:rPr>\n          <m:t>1</m:t>\n        </w:ins>\n      </m:r>\n    </m:num>\n    <m:den>\n      <m:r>\n        <w:ins w:id=\"9\" w:author=\"Jennifer Hutchinson\" w:date=\"2015-07-21T15:46:00Z\">\n          <w:rPr>\n            <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n            <w:sz w:val=\"18\"/>\n            <w:szCs w:val=\"18\"/>\n          </w:rPr>\n          <m:t>8</m:t>\n        </w:ins>\n      </m:r>\n    </m:den>\n  </m:f>\n  <m:r>\n    <w:del w:id=\"10\" w:author=\"Jennifer Hutchinson\" w:date=\"2015-07-21T15:46:00Z\">\n      <w:rPr>\n        <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        <w:sz w:val=\"18\"/>\n        <w:szCs w:val=\"18\"/>\n      </w:rPr>\n      <m:t>1/8</m:t>\n    </w:del>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `mathml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issu"
+  },
+  {
+    "file": "math-g5-m5-topic-d-lesson-16.docx",
+    "text": "AB  ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "r",
+      "rFonts",
+      "rPr",
+      "sty",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <m:rPr>\n      <m:sty m:val=\"p\"/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m5-topic-d-lesson-16.docx",
+    "text": "AB",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m5-topic-d-lesson-16.docx",
+    "text": "AC",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AC</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m5-topic-d-lesson-16.docx",
+    "text": "BC",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>BC</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m5-topic-d-lesson-17.docx",
+    "text": "WY",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>WY</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m5-topic-d-lesson-17.docx",
+    "text": "MZ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>MZ</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m5-topic-d-lesson-19.docx",
+    "text": "AB",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m5-topic-d-lesson-19.docx",
+    "text": "AC",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AC</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m5-topic-d-lesson-19.docx",
+    "text": "BD",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>BD</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m5-topic-d-lesson-19.docx",
+    "text": "CD",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>CD</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-end-of-module-assessment.docx",
+    "text": "QR  ",
+    "elements": [
+      "acc",
+      "accPr",
+      "b",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:b/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>QR</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-end-of-module-assessment.docx",
+    "text": "QR , ",
+    "elements": [
+      "acc",
+      "accPr",
+      "b",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:b/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>QR</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\">, </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-end-of-module-assessment.docx",
+    "text": "QR",
+    "elements": [
+      "acc",
+      "accPr",
+      "b",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:b/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>QR</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-a-lesson-6.docx",
+    "text": "AB  ",
+    "elements": [
+      "acc",
+      "accPr",
+      "b",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:b/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-a-lesson-6.docx",
+    "text": "  AB",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-a-lesson-6.docx",
+    "text": "  CD,",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>CD,</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-a-lesson-6.docx",
+    "text": "CA  ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n        </w:rPr>\n        <m:t>CA</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-a-lesson-6.docx",
+    "text": "ST",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n        </w:rPr>\n        <m:t>ST</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-a-lesson-6.docx",
+    "text": "CA",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n        </w:rPr>\n        <m:t>CA</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-a-lesson-6.docx",
+    "text": "  ST",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n        </w:rPr>\n        <m:t>ST</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-b-lesson-12.docx",
+    "text": "OP",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>OP</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-b-lesson-12.docx",
+    "text": "BC  ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>BC</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-b-lesson-12.docx",
+    "text": "GH",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>GH</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-b-lesson-12.docx",
+    "text": "BC",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>BC</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-b-lesson-12.docx",
+    "text": "GH .",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>GH</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>.</m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-b-lesson-7.docx",
+    "text": "AD",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AD</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-b-lesson-7.docx",
+    "text": "AD  ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AD</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-b-lesson-7.docx",
+    "text": "GJ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>GJ</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-13.docx",
+    "text": "EF",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>EF</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-13.docx",
+    "text": "IJ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>IJ</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-13.docx",
+    "text": "KL",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>KL</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-13.docx",
+    "text": "MN",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>MN</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-13.docx",
+    "text": "QR",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>QR</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-13.docx",
+    "text": "QR  ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>QR</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-13.docx",
+    "text": "GH  ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>GH</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "ST .",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>ST</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>.</m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "AB ∥ ST",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>∥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>ST</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "CD ∥ EF",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>CD</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>∥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>EF</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "  LM",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>LM</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "PR",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>PR</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "PR  ⊥  ST",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "nor",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t xml:space=\"preserve\">PR </m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <m:rPr>\n      <m:nor/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cs=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>⊥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t xml:space=\"preserve\"> ST</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "PR ∥ ST",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>PR</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>∥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>ST</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "UV",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>UV</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "∥ PR",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>∥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>PR</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "EF ∥ LM",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>EF</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>∥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>LM</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "LM",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>LM</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "∥ GH",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>∥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>GH</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "JK",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>JK</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "MN  ⊥  JK",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "nor",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t xml:space=\"preserve\">MN </m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <m:rPr>\n      <m:nor/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cs=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>⊥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t xml:space=\"preserve\"> JK</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "MN ∥ JK",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>MN</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>∥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>JK</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "FG",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>FG</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "∥ MN",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>∥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>MN</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "AB ∥ CD",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>∥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>CD</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-14.docx",
+    "text": "∥ EF",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>∥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>EF</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-15.docx",
+    "text": "SR",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>SR</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-15.docx",
+    "text": "RT",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>RT</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-15.docx",
+    "text": "ST .",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "lang",
+      "noProof",
+      "r",
+      "rFonts",
+      "rPr",
+      "t",
+      "vertAlign"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n          <w:i/>\n          <w:noProof/>\n          <w:vertAlign w:val=\"subscript\"/>\n          <w:lang w:eastAsia=\"zh-CN\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n          <w:noProof/>\n          <w:vertAlign w:val=\"subscript\"/>\n          <w:lang w:eastAsia=\"zh-CN\"/>\n        </w:rPr>\n        <m:t>ST</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n      <w:noProof/>\n      <w:vertAlign w:val=\"subscript\"/>\n      <w:lang w:eastAsia=\"zh-CN\"/>\n    </w:rPr>\n    <m:t>.</m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-15.docx",
+    "text": "SR ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "lang",
+      "noProof",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n          <w:i/>\n          <w:noProof/>\n          <w:lang w:eastAsia=\"zh-CN\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n          <w:noProof/>\n          <w:lang w:eastAsia=\"zh-CN\"/>\n        </w:rPr>\n        <m:t xml:space=\"preserve\">SR </m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-15.docx",
+    "text": "RT",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "lang",
+      "noProof",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n          <w:i/>\n          <w:noProof/>\n          <w:lang w:eastAsia=\"zh-CN\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\" w:cstheme=\"minorHAnsi\"/>\n          <w:noProof/>\n          <w:lang w:eastAsia=\"zh-CN\"/>\n        </w:rPr>\n        <m:t>RT</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-15.docx",
+    "text": "RS",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>RS</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "DE.",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>DE.</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "CF",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>CF</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "AB ⊥ CA",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "r",
+      "rFonts",
+      "rPr",
+      "sty",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <m:rPr>\n      <m:sty m:val=\"p\"/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>⊥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>CA</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "AB .",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>.</m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "QT",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>QT</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "⊥ GH",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>⊥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>GH</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "VW",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>VW</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "PQ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>PQ</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "CB",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>CB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "CD .",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>CD</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>.</m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-16.docx",
+    "text": "⊥ UV",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>⊥</m:t>\n  </m:r>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>UV</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-17.docx",
+    "text": "AB .",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "sty",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <m:rPr>\n      <m:sty m:val=\"p\"/>\n    </m:rPr>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t>.</m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-17.docx",
+    "text": "AB  ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>AB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\"> </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-17.docx",
+    "text": "CD . ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>CD</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n  <m:r>\n    <w:rPr>\n      <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n    </w:rPr>\n    <m:t xml:space=\"preserve\">. </m:t>\n  </m:r>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-17.docx",
+    "text": "EG",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>EG</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-17.docx",
+    "text": "FH",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>FH</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-17.docx",
+    "text": "HI",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>HI</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-17.docx",
+    "text": "DE",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>DE</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-17.docx",
+    "text": "DF",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>DF</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-17.docx",
+    "text": "HJ",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>HJ</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-c-lesson-17.docx",
+    "text": "IG",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"⃡\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:eastAsiaTheme=\"minorEastAsia\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>IG</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-d-lesson-18.docx",
+    "text": "CE",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>CE</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-f-lesson-31.docx",
+    "text": "EB",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n        </w:rPr>\n        <m:t>EB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  },
+  {
+    "file": "math-g5-m6-topic-f-lesson-31.docx",
+    "text": "EB",
+    "elements": [
+      "acc",
+      "accPr",
+      "chr",
+      "ctrlPr",
+      "e",
+      "i",
+      "r",
+      "rFonts",
+      "rPr",
+      "t",
+      "vertAlign"
+    ],
+    "omml": "<m:oMath>\n  <m:acc>\n    <m:accPr>\n      <m:chr m:val=\"̅\"/>\n      <m:ctrlPr>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:i/>\n          <w:vertAlign w:val=\"subscript\"/>\n        </w:rPr>\n      </m:ctrlPr>\n    </m:accPr>\n    <m:e>\n      <m:r>\n        <w:rPr>\n          <w:rFonts w:ascii=\"Cambria Math\" w:hAnsi=\"Cambria Math\"/>\n          <w:vertAlign w:val=\"subscript\"/>\n        </w:rPr>\n        <m:t>EB</m:t>\n      </m:r>\n    </m:e>\n  </m:acc>\n</m:oMath>",
+    "error": "[plurimath] Error: Failed to parse the following formula with type `omml`.\n[plurimath] Please first manually validate the formula.\n[plurimath] If this is a bug, please report the formula at our issue "
+  }
+]
