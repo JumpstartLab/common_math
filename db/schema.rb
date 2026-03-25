@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2026_03_24_223010) do
+ActiveRecord::Schema[8.1].define(version: 2026_03_25_120001) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "pg_catalog.plpgsql"
 
@@ -45,6 +45,25 @@ ActiveRecord::Schema[8.1].define(version: 2026_03_24_223010) do
     t.bigint "lesson_id", null: false
     t.datetime "updated_at", null: false
     t.index ["lesson_id"], name: "index_exit_tickets_on_lesson_id", unique: true
+  end
+
+  create_table "expressions", force: :cascade do |t|
+    t.text "aspose_html"
+    t.jsonb "conversion_notes", default: {}
+    t.string "conversion_status", default: "pending", null: false
+    t.datetime "created_at", null: false
+    t.string "image_content_type"
+    t.text "image_data"
+    t.text "mathml"
+    t.text "omml"
+    t.integer "position", null: false
+    t.bigint "source_id", null: false
+    t.string "source_type", null: false
+    t.string "text_representation"
+    t.datetime "updated_at", null: false
+    t.index ["conversion_status"], name: "index_expressions_on_conversion_status"
+    t.index ["source_type", "source_id", "position"], name: "idx_expressions_source_position", unique: true
+    t.index ["source_type", "source_id"], name: "index_expressions_on_source"
   end
 
   create_table "grades", force: :cascade do |t|

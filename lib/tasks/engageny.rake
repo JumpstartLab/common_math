@@ -21,6 +21,26 @@ namespace :engageny do
     puts "  Assessments: #{Assessment.count}"
   end
 
+  desc "Extract OMML math expressions from DOCXs and convert to MathML"
+  task extract_math: :environment do
+    require_relative "../engageny/expression_extractor"
+
+    puts "Extracting math expressions..."
+    extractor = Engageny::ExpressionExtractor.new
+    total = extractor.extract_all
+    puts "\nDone."
+
+    puts "\nSummary:"
+    puts "  Total expressions: #{Expression.count}"
+    puts "  Converted: #{Expression.where(conversion_status: 'converted').count}"
+    puts "  Fix applied: #{Expression.where(conversion_status: 'fix_applied').count}"
+    puts "  Unconverted: #{Expression.where(conversion_status: 'unconverted').count}"
+
+    manifest_path = Rails.root.join("tmp/expression-extraction-manifest.json")
+    extractor.converter.write_manifest(manifest_path)
+    puts "\nManifest written to #{manifest_path}"
+  end
+
   desc "Validate round-trip: reconstruct each lesson and compare to normalized source"
   task validate: :environment do
     require_relative "../engageny/html_parser"

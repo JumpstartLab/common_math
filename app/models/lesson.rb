@@ -4,6 +4,7 @@ class Lesson < ApplicationRecord
   has_one :problem_set, dependent: :destroy
   has_one :exit_ticket, dependent: :destroy
   has_one :homework, dependent: :destroy
+  has_many :expressions, as: :source, dependent: :destroy
   has_many :supplemental_resources, as: :resourceable, dependent: :destroy
   has_many :standard_taggings, as: :taggable
   has_many :standards, through: :standard_taggings

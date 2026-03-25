@@ -1,6 +1,7 @@
 class Assessment < ApplicationRecord
   belongs_to :content_module
   has_many :problems, as: :source, dependent: :destroy
+  has_many :expressions, as: :source, dependent: :destroy
   has_many :standard_taggings, as: :taggable
   has_many :standards, through: :standard_taggings
 
