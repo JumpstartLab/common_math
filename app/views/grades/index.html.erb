@@ -1,0 +1,18 @@
+<h1 class="text-2xl font-bold mb-6">CommonMath Curriculum</h1>
+
+<% @grades.each do |grade| %>
+  <div class="mb-8">
+    <h2 class="text-xl font-semibold mb-3">
+      <%= link_to grade.title, grade_path(grade), class: "text-indigo-700 hover:underline" %>
+    </h2>
+    <ul class="ml-4 space-y-1">
+      <% grade.content_modules.sort_by(&:position).each do |cm| %>
+        <li>
+          <%= link_to "Module #{cm.number}: #{cm.title}",
+                grade_content_module_path(grade, cm),
+                class: "text-gray-700 hover:text-indigo-700" %>
+        </li>
+      <% end %>
+    </ul>
+  </div>
+<% end %>

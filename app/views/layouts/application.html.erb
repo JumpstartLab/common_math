@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= content_for(:title) || "CommonMath" %></title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+    <%= stylesheet_link_tag :app, "data-turbo-track": "reload" %>
+    <%= javascript_importmap_tags %>
+  </head>
+
+  <body class="bg-gray-50 text-gray-900">
+    <nav class="bg-white border-b border-gray-200 px-6 py-3">
+      <div class="max-w-5xl mx-auto flex items-center gap-4">
+        <%= link_to "CommonMath", root_path, class: "text-lg font-bold text-indigo-700" %>
+        <% if content_for?(:breadcrumbs) %>
+          <span class="text-gray-400">/</span>
+          <%= yield :breadcrumbs %>
+        <% end %>
+      </div>
+    </nav>
+
+    <main class="max-w-5xl mx-auto px-6 py-8">
+      <%= yield %>
+    </main>
+  </body>
+</html>

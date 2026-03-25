@@ -1,0 +1,32 @@
+<% content_for :breadcrumbs do %>
+  <%= link_to @grade.title, grade_path(@grade), class: "text-gray-600 hover:text-indigo-700" %>
+  <span class="text-gray-400">/</span>
+  <span class="text-gray-600">Module <%= @content_module.number %></span>
+<% end %>
+
+<h1 class="text-2xl font-bold mb-1">Module <%= @content_module.number %></h1>
+<p class="text-lg text-gray-600 mb-6"><%= @content_module.title %></p>
+
+<div class="space-y-6">
+  <% @topics.each do |topic| %>
+    <div class="bg-white rounded-lg border border-gray-200 p-5">
+      <h2 class="text-lg font-semibold mb-3">
+        <%= link_to "Topic #{topic.letter}: #{topic.title}",
+              grade_content_module_topic_path(@grade, @content_module, topic),
+              class: "text-indigo-700 hover:underline" %>
+      </h2>
+      <ol class="ml-4 space-y-1">
+        <% topic.lessons.sort_by(&:position).each do |lesson| %>
+          <li>
+            <%= link_to "Lesson #{lesson.number}",
+                  grade_content_module_topic_lesson_path(@grade, @content_module, topic, lesson),
+                  class: "text-gray-700 hover:text-indigo-700" %>
+            <% if lesson.objective.present? %>
+              <span class="text-sm text-gray-500">&mdash; <%= truncate(lesson.objective, length: 80) %></span>
+            <% end %>
+          </li>
+        <% end %>
+      </ol>
+    </div>
+  <% end %>
+</div>
