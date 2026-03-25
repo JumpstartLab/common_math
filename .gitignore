@@ -42,3 +42,7 @@
 
 # Aspose license file
 /scripts/Aspose.Words.lic
+
+# Z-Library scraping data
+/data/zlibrary-*
+/script/zlibrary_*
