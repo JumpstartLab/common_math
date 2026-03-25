@@ -9,6 +9,26 @@
 <h1 class="text-2xl font-bold mb-1">Topic <%= @topic.letter %></h1>
 <p class="text-lg text-gray-600 mb-6"><%= @topic.title %></p>
 
+<% supplementals = displayable_supplemental_resources(@topic.supplemental_resources) %>
+<% if supplementals.any? %>
+  <div class="bg-white rounded-lg border border-gray-200 p-5 mb-6">
+    <h2 class="font-semibold mb-3">Topic Resources</h2>
+    <div class="flex flex-wrap gap-3">
+      <% supplementals.each do |resource| %>
+        <%= link_to supplemental_label(resource),
+              supplemental_url(resource),
+              target: "_blank",
+              rel: "noopener",
+              class: "px-4 py-2 bg-white border border-gray-300 rounded hover:bg-gray-50 text-sm" %>
+      <% end %>
+    </div>
+    <p class="text-xs text-gray-400 mt-3">
+      From <%= link_to "EMBARC.Online", "https://embarc.online", target: "_blank", rel: "noopener", class: "underline" %>,
+      CC BY-NC-SA 4.0.
+    </p>
+  </div>
+<% end %>
+
 <div class="space-y-3">
   <% @lessons.each do |lesson| %>
     <div class="bg-white rounded-lg border border-gray-200 p-4 flex justify-between items-start">

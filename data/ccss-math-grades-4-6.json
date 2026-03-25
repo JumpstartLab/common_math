@@ -1,0 +1,887 @@
+{
+  "source": "Common Core State Standards via SirFizX/standards-data (GitHub)",
+  "source_url": "https://raw.githubusercontent.com/SirFizX/standards-data/master/clean-data/CC/math/CC-math-0.8.0.json",
+  "fetched_at": "2026-03-25T15:34:29Z",
+  "standards": [
+    {
+      "code": "4.G.1",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Draw and identify lines and angles, and classify shapes by properties of their lines and angles.",
+      "description": "Draw points, lines, line segments, rays, angles (right, acute, obtuse), and perpendicular and parallel lines. Identify these in two-dimensional figures.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.G.2",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Draw and identify lines and angles, and classify shapes by properties of their lines and angles.",
+      "description": "Classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines, or the presence or absence of angles of a specified size. Recognize right triangles as a category, and identify right triangles.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.G.3",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Draw and identify lines and angles, and classify shapes by properties of their lines and angles.",
+      "description": "Recognize a line of symmetry for a two-dimensional figure as a line across the figure such that the figure can be folded along the line into matching parts. Identify line-symmetric figures and draw lines of symmetry.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.MD.1",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Solve problems involving measurement and conversion of measurements from a larger unit to a smaller unit.",
+      "description": "Know relative sizes of measurement units within one system of units including km, m, cm; kg, g; lb, oz.; l, ml; hr, min, sec. Within a single system of measurement, express measurements in a larger unit in terms of a smaller unit. Record measurement equivalents in a two column table. For example, know that 1 ft is 12 times as long as 1 in. Express the length of a 4 ft snake as 48 in. Generate a conversion table for feet and inches listing the number pairs (1, 12), (2, 24), (3, 36), ...",
+      "grade_level": 4
+    },
+    {
+      "code": "4.MD.2",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Solve problems involving measurement and conversion of measurements from a larger unit to a smaller unit.",
+      "description": "Use the four operations to solve word problems involving distances, intervals of time, liquid volumes, masses of objects, and money, including problems involving simple fractions or decimals, and problems that require expressing measurements given in a larger unit in terms of a smaller unit. Represent measurement quantities using diagrams such as number line diagrams that feature a measurement scale.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.MD.3",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Solve problems involving measurement and conversion of measurements from a larger unit to a smaller unit.",
+      "description": "Apply the area and perimeter formulas for rectangles in real world and mathematical problems. For example, find the width of a rectangular room given the area of the flooring and the length, by viewing the area formula as a multiplication equation with an unknown factor.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.MD.4",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Represent and interpret data.",
+      "description": "Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). Solve problems involving addition and subtraction of fractions by using information presented in line plots. For example, from a line plot find and interpret the difference in length between the longest and shortest specimens in an insect collection.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.MD.5a",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Recognize angles as geometric shapes that are formed wherever two rays share a common endpoint, and understand concepts of angle measurement:",
+      "description": "An angle is measured with reference to a circle with its center at the common endpoint of the rays, by considering the fraction of the circular arc between the points where the two rays intersect the circle. An angle that turns through 1/360 of a circle is called a &quot;one-degree angle,&quot; and can be used to measure angles.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.MD.5b",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Recognize angles as geometric shapes that are formed wherever two rays share a common endpoint, and understand concepts of angle measurement:",
+      "description": "An angle that turns through n one-degree angles is said to have an angle measure of n degrees.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.MD.6",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Geometric measurement: understand concepts of angle and measure angles.",
+      "description": "Measure angles in whole-number degrees using a protractor. Sketch angles of specified measure.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.MD.7",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Geometric measurement: understand concepts of angle and measure angles.",
+      "description": "Recognize angle measure as additive. When an angle is decomposed into non-overlapping parts, the angle measure of the whole is the sum of the angle measures of the parts. Solve addition and subtraction problems to find unknown angles on a diagram in real world and mathematical problems, e.g., by using an equation with a symbol for the unknown angle measure.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NBT.1",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Generalize place value understanding for multi-digit whole numbers.",
+      "description": "Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right. For example, recognize that 700 ÷ 70 = 10 by applying concepts of place value and division.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NBT.2",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Generalize place value understanding for multi-digit whole numbers.",
+      "description": "Read and write multi-digit whole numbers using base-ten numerals, number names, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using &gt;, =, and &lt; symbols to record the results of comparisons.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NBT.3",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Generalize place value understanding for multi-digit whole numbers.",
+      "description": "Use place value understanding to round multi-digit whole numbers to any place.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NBT.4",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Use place value understanding and properties of operations to perform multi-digit arithmetic.",
+      "description": "Fluently add and subtract multi-digit whole numbers using the standard algorithm.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NBT.5",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Use place value understanding and properties of operations to perform multi-digit arithmetic.",
+      "description": "Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NBT.6",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Use place value understanding and properties of operations to perform multi-digit arithmetic.",
+      "description": "Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.1",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Extend understanding of fraction equivalence and ordering.",
+      "description": "Explain why a fraction a/b is equivalent to a fraction (n × a)/(n × b) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size. Use this principle to recognize and generate equivalent fractions.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.2",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Extend understanding of fraction equivalence and ordering.",
+      "description": "Compare two fractions with different numerators and different denominators, e.g., by creating common denominators or numerators, or by comparing to a benchmark fraction such as 1/2. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with symbols &gt;, =, or &lt;, and justify the conclusions, e.g., by using a visual fraction model.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.3a",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Understand a fraction a/b with a &gt; 1 as a sum of fractions 1/b.",
+      "description": "Understand addition and subtraction of fractions as joining and separating parts referring to the same whole.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.3b",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Understand a fraction a/b with a &gt; 1 as a sum of fractions 1/b.",
+      "description": "Decompose a fraction into a sum of fractions with the same denominator in more than one way, recording each decomposition by an equation. Justify decompositions, e.g., by using a visual fraction model. Examples: 3/8 = 1/8 + 1/8 + 1/8 ; 3/8 = 1/8 + 2/8 ; 2 1/8 = 1 + 1 + 1/8 = 8/8 + 8/8 + 1/8.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.3c",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Understand a fraction a/b with a &gt; 1 as a sum of fractions 1/b.",
+      "description": "Add and subtract mixed numbers with like denominators, e.g., by replacing each mixed number with an equivalent fraction, and/or by using properties of operations and the relationship between addition and subtraction.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.3d",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Understand a fraction a/b with a &gt; 1 as a sum of fractions 1/b.",
+      "description": "Solve word problems involving addition and subtraction of fractions referring to the same whole and having like denominators, e.g., by using visual fraction models and equations to represent the problem.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.4a",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.",
+      "description": "Understand a fraction a/b as a multiple of 1/b. For example, use a visual fraction model to represent 5/4 as the product 5 × (1/4), recording the conclusion by the equation 5/4 = 5 × (1/4).",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.4b",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.",
+      "description": "Understand a multiple of a/b as a multiple of 1/b, and use this understanding to multiply a fraction by a whole number. For example, use a visual fraction model to express 3 × (2/5) as 6 × (1/5), recognizing this product as 6/5. (In general, n × (a/b) = (n × a)/b.)",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.4c",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.",
+      "description": "Solve word problems involving multiplication of a fraction by a whole number, e.g., by using visual fraction models and equations to represent the problem. For example, if each person at a party will eat 3/8 of a pound of roast beef, and there will be 5 people at the party, how many pounds of roast beef will be needed? Between what two whole numbers does your answer lie?",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.5",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Understand decimal notation for fractions, and compare decimal fractions.",
+      "description": "Express a fraction with denominator 10 as an equivalent fraction with denominator 100, and use this technique to add two fractions with respective denominators 10 and 100. Students who can generate equivalent fractions can develop strategies for adding fractions with unlike denominators in general. But addition and subtraction with unlike denominators in general is not a requirement at this grade. For example, express 3/10 as 30/100, and add 3/10 + 4/100 = 34/100.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.6",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Understand decimal notation for fractions, and compare decimal fractions.",
+      "description": "Use decimal notation for fractions with denominators 10 or 100. For example, rewrite 0.62 as 62/100; describe a length as 0.62 meters; locate 0.62 on a number line diagram.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.NF.7",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Understand decimal notation for fractions, and compare decimal fractions.",
+      "description": "Compare two decimals to hundredths by reasoning about their size. Recognize that comparisons are valid only when the two decimals refer to the same whole. Record the results of comparisons with the symbols &gt;, =, or &lt;, and justify the conclusions, e.g., by using a visual model.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.OA.1",
+      "domain": "Operations and Algebraic Thinking",
+      "domain_code": "OA",
+      "cluster": "Use the four operations with whole numbers to solve problems.",
+      "description": "Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.OA.2",
+      "domain": "Operations and Algebraic Thinking",
+      "domain_code": "OA",
+      "cluster": "Use the four operations with whole numbers to solve problems.",
+      "description": "Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.OA.3",
+      "domain": "Operations and Algebraic Thinking",
+      "domain_code": "OA",
+      "cluster": "Use the four operations with whole numbers to solve problems.",
+      "description": "Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.OA.4",
+      "domain": "Operations and Algebraic Thinking",
+      "domain_code": "OA",
+      "cluster": "Gain familiarity with factors and multiples.",
+      "description": "Find all factor pairs for a whole number in the range 1—100. Recognize that a whole number is a multiple of each of its factors. Determine whether a given whole number in the range 1—100 is a multiple of a given one-digit number. Determine whether a given whole number in the range 1—100 is prime or composite.",
+      "grade_level": 4
+    },
+    {
+      "code": "4.OA.5",
+      "domain": "Operations and Algebraic Thinking",
+      "domain_code": "OA",
+      "cluster": "Generate and analyze patterns.",
+      "description": "Generate a number or shape pattern that follows a given rule. Identify apparent features of the pattern that were not explicit in the rule itself. For example, given the rule &quot;Add 3&quot; and the starting number 1, generate terms in the resulting sequence and observe that the terms appear to alternate between odd and even numbers. Explain informally why the numbers will continue to alternate in this way.",
+      "grade_level": 4
+    },
+    {
+      "code": "5.G.1",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Graph points on the coordinate plane to solve real-world and mathematical problems.",
+      "description": "Use a pair of perpendicular number lines, called axes, to define a coordinate system, with the intersection of the lines (the origin) arranged to coincide with the 0 on each line and a given point in the plane located by using an ordered pair of numbers, called its coordinates. Understand that the first number indicates how far to travel from the origin in the direction of one axis, and the second number indicates how far to travel in the direction of the second axis, with the convention that the names of the two axes and the coordinates correspond (e.g., x-axis and x-coordinate, y-axis and y-coordinate).",
+      "grade_level": 5
+    },
+    {
+      "code": "5.G.2",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Graph points on the coordinate plane to solve real-world and mathematical problems.",
+      "description": "Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and interpret coordinate values of points in the context of the situation.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.G.3",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Classify two-dimensional figures into categories based on their properties.",
+      "description": "Understand that attributes belonging to a category of two-dimensional figures also belong to all subcategories of that category. For example, all rectangles have four right angles and squares are rectangles, so all squares have four right angles.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.G.4",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Classify two-dimensional figures into categories based on their properties.",
+      "description": "Classify two-dimensional figures in a hierarchy based on properties.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.MD.1",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Convert like measurement units within a given measurement system.",
+      "description": "Convert among different-sized standard measurement units within a given measurement system (e.g., convert 5 cm to 0.05 m), and use these conversions in solving multi-step, real world problems.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.MD.2",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Represent and interpret data.",
+      "description": "Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). Use operations on fractions for this grade to solve problems involving information presented in line plots. For example, given different measurements of liquid in identical beakers, find the amount of liquid each beaker would contain if the total amount in all the beakers were redistributed equally.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.MD.3a",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
+      "description": "A cube with side length 1 unit, called a &quot;unit cube,&quot; is said to have &quot;one cubic unit&quot; of volume, and can be used to measure volume.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.MD.3b",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
+      "description": "A solid figure which can be packed without gaps or overlaps using n unit cubes is said to have a volume of n cubic units.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.MD.4",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
+      "description": "Measure volumes by counting unit cubes, using cubic cm, cubic in, cubic ft, and improvised units.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.MD.5a",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
+      "description": "Find the volume of a right rectangular prism with whole-number side lengths by packing it with unit cubes, and show that the volume is the same as would be found by multiplying the edge lengths, equivalently by multiplying the height by the area of the base. Represent threefold whole-number products as volumes, e.g., to represent the associative property of multiplication.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.MD.5b",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
+      "description": "Apply the formulas V = l × w × h and V = b × h for rectangular prisms to find volumes of right rectangular prisms with whole-number edge lengths in the context of solving real world and mathematical problems.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.MD.5c",
+      "domain": "Measurement and Data",
+      "domain_code": "MD",
+      "cluster": "Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
+      "description": "Recognize volume as additive. Find volumes of solid figures composed of two non-overlapping right rectangular prisms by adding the volumes of the non-overlapping parts, applying this technique to solve real world problems.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NBT.1",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Understand the place value system.",
+      "description": "Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents in the place to its left.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NBT.2",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Understand the place value system.",
+      "description": "Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10. Use whole-number exponents to denote powers of 10.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NBT.3a",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Read, write, and compare decimals to thousandths.",
+      "description": "Read and write decimals to thousandths using base-ten numerals, number names, and expanded form, e.g., 347.392 = 3 × 100 + 4 × 10 + 7 × 1 + 3 × (1/10) + 9 × (1/100) + 2 × (1/1000).",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NBT.3b",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Read, write, and compare decimals to thousandths.",
+      "description": "Compare two decimals to thousandths based on meanings of the digits in each place, using &gt;, =, and &lt; symbols to record the results of comparisons.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NBT.4",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Understand the place value system.",
+      "description": "Use place value understanding to round decimals to any place.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NBT.5",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Perform operations with multi-digit whole numbers and with decimals to hundredths.",
+      "description": "Fluently multiply multi-digit whole numbers using the standardalgorithm.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NBT.6",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Perform operations with multi-digit whole numbers and with decimals to hundredths.",
+      "description": "Find whole-number quotients of whole numbers with up to four-digit dividends and two-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NBT.7",
+      "domain": "Number and Operations in Base Ten",
+      "domain_code": "NBT",
+      "cluster": "Perform operations with multi-digit whole numbers and with decimals to hundredths.",
+      "description": "Add, subtract, multiply, and divide decimals to hundredths, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.1",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Use equivalent fractions as a strategy to add and subtract fractions.",
+      "description": "Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions with equivalent fractions in such a way as to produce an equivalent sum or difference of fractions with like denominators. For example, 2/3 + 5/4 = 8/12 + 15/12 = 23/12. (In general, a/b + c/d = (ad + bc)/bd.)",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.2",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Use equivalent fractions as a strategy to add and subtract fractions.",
+      "description": "Solve word problems involving addition and subtraction of fractions referring to the same whole, including cases of unlike denominators, e.g., by using visual fraction models or equations to represent the problem. Use benchmark fractions and number sense of fractions to estimate mentally and assess the reasonableness of answers. For example, recognize an incorrect result 2/5 + 1/2 = 3/7, by observing that 3/7 &lt; 1/2.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.3",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+      "description": "Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem. For example, interpret 3/4 as the result of dividing 3 by 4, noting that 3/4 multiplied by 4 equals 3, and that when 3 wholes are shared equally among 4 people each person has a share of size 3/4. If 9 people want to share a 50-pound sack of rice equally by weight, how many pounds of rice should each person get? Between what two whole numbers does your answer lie?",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.4a",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
+      "description": "Interpret the product (a/b) × q as a parts of a partition of q into b equal parts; equivalently, as the result of a sequence of operations a × q ÷ b. For example, use a visual fraction model to show (2/3) × 4 = 8/3, and create a story context for this equation. Do the same with (2/3) × (4/5) = 8/15. (In general, (a/b) × (c/d) = ac/bd.)",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.4b",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
+      "description": "Find the area of a rectangle with fractional side lengths by tiling it with unit squares of the appropriate unit fraction side lengths, and show that the area is the same as would be found by multiplying the side lengths. Multiply fractional side lengths to find areas of rectangles, and represent fraction products as rectangular areas.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.5a",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Interpret multiplication as scaling (resizing), by:",
+      "description": "Comparing the size of a product to the size of one factor on the basis of the size of the other factor, without performing the indicated multiplication.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.5b",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Interpret multiplication as scaling (resizing), by:",
+      "description": "Explaining why multiplying a given number by a fraction greater than 1 results in a product greater than the given number (recognizing multiplication by whole numbers greater than 1 as a familiar case); explaining why multiplying a given number by a fraction less than 1 results in a product smaller than the given number; and relating the principle of fraction equivalence a/b = (n×a)/(n×b) to the effect of multiplying a/b by 1.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.6",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+      "description": "Solve real world problems involving multiplication of fractions and mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.7a",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
+      "description": "Interpret division of a unit fraction by a non-zero whole number, and compute such quotients. For example, create a story context for (1/3) ÷ 4, and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that (1/3) ÷ 4 = 1/12 because (1/12) × 4 = 1/3.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.7b",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
+      "description": "Interpret division of a whole number by a unit fraction, and compute such quotients. For example, create a story context for 4 ÷ (1/5), and use a visual fraction model to show the quotient. Use the relationship between multiplication and division to explain that 4 ÷ (1/5) = 20 because 20 × (1/5) = 4.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.NF.7c",
+      "domain": "Number and Operations—Fractions",
+      "domain_code": "NF",
+      "cluster": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
+      "description": "Solve real world problems involving division of unit fractions by non-zero whole numbers and division of whole numbers by unit fractions, e.g., by using visual fraction models and equations to represent the problem. For example, how much chocolate will each person get if 3 people share 1/2 lb of chocolate equally? How many 1/3-cup servings are in 2 cups of raisins?",
+      "grade_level": 5
+    },
+    {
+      "code": "5.OA.1",
+      "domain": "Operations and Algebraic Thinking",
+      "domain_code": "OA",
+      "cluster": "Write and interpret numerical expressions.",
+      "description": "Use parentheses, brackets, or braces in numerical expressions, and evaluate expressions with these symbols.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.OA.2",
+      "domain": "Operations and Algebraic Thinking",
+      "domain_code": "OA",
+      "cluster": "Write and interpret numerical expressions.",
+      "description": "Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them. For example, express the calculation &quot;add 8 and 7, then multiply by 2&quot; as 2 × (8 + 7). Recognize that 3 × (18932 + 921) is three times as large as 18932 + 921, without having to calculate the indicated sum or product.",
+      "grade_level": 5
+    },
+    {
+      "code": "5.OA.3",
+      "domain": "Operations and Algebraic Thinking",
+      "domain_code": "OA",
+      "cluster": "Analyze patterns and relationships.",
+      "description": "Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms. Form ordered pairs consisting of corresponding terms from the two patterns, and graph the ordered pairs on a coordinate plane. For example, given the rule &quot;Add 3&quot; and the starting number 0, and given the rule &quot;Add 6&quot; and the starting number 0, generate terms in the resulting sequences, and observe that the terms in one sequence are twice the corresponding terms in the other sequence. Explain informally why this is so.",
+      "grade_level": 5
+    },
+    {
+      "code": "6.EE.1",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Apply and extend previous understandings of arithmetic to algebraic expressions.",
+      "description": "Write and evaluate numerical expressions involving whole-number exponents.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.EE.2a",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Write, read, and evaluate expressions in which letters stand for numbers.",
+      "description": "Write expressions that record operations with numbers and with letters standing for numbers. For example, express the calculation &quot;Subtract y from 5&quot; as 5 - y.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.EE.2b",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Write, read, and evaluate expressions in which letters stand for numbers.",
+      "description": "Identify parts of an expression using mathematical terms (sum, term, product, factor, quotient, coefficient); view one or more parts of an expression as a single entity. For example, describe the expression 2 (8 + 7) as a product of two factors; view (8 + 7) as both a single entity and a sum of two terms.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.EE.2c",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Write, read, and evaluate expressions in which letters stand for numbers.",
+      "description": "Evaluate expressions at specific values of their variables. Include expressions that arise from formulas used in real-world problems. Perform arithmetic operations, including those involving whole-number exponents, in the conventional order when there are no parentheses to specify a particular order (Order of Operations). For example, use the formulas V = s³ and A = 6 s² to find the volume and surface area of a cube with sides of length s = 1/2.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.EE.3",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Apply and extend previous understandings of arithmetic to algebraic expressions.",
+      "description": "Apply the properties of operations to generate equivalent expressions. For example, apply the distributive property to the expression 3 (2 + x) to produce the equivalent expression 6 + 3x; apply the distributive property to the expression 24x + 18y to produce the equivalent expression 6 (4x + 3y); apply properties of operations to y + y + y to produce the equivalent expression 3y.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.EE.4",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Apply and extend previous understandings of arithmetic to algebraic expressions.",
+      "description": "Identify when two expressions are equivalent (i.e., when the two expressions name the same number regardless of which value is substituted into them). For example, the expressions y + y + y and 3y are equivalent because they name the same number regardless of which number y stands for.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.EE.5",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Reason about and solve one-variable equations and inequalities.",
+      "description": "Understand solving an equation or inequality as a process of answering a question: which values from a specified set, if any, make the equation or inequality true? Use substitution to determine whether a given number in a specified set makes an equation or inequality true.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.EE.6",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Reason about and solve one-variable equations and inequalities.",
+      "description": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a variable can represent an unknown number, or, depending on the purpose at hand, any number in a specified set.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.EE.7",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Reason about and solve one-variable equations and inequalities.",
+      "description": "Solve real-world and mathematical problems by writing and solving equations of the form x + p = q and px = q for cases in which p, q and x are all nonnegative rational numbers.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.EE.8",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Reason about and solve one-variable equations and inequalities.",
+      "description": "Write an inequality of the form x &gt; c or x &lt; c to represent a constraint or condition in a real-world or mathematical problem. Recognize that inequalities of the form x &gt; c or x &lt; c have infinitely many solutions; represent solutions of such inequalities on number line diagrams.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.EE.9",
+      "domain": "Expressions and Equations",
+      "domain_code": "EE",
+      "cluster": "Represent and analyze quantitative relationships between dependent and independent variables.",
+      "description": "Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as the dependent variable, in terms of the other quantity, thought of as the independent variable. Analyze the relationship between the dependent and independent variables using graphs and tables, and relate these to the equation. For example, in a problem involving motion at constant speed, list and graph ordered pairs of distances and times, and write the equation d = 65t to represent the relationship between distance and time.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.G.1",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Solve real-world and mathematical problems involving area, surface area, and volume.",
+      "description": "Find the area of right triangles, other triangles, special quadrilaterals, and polygons by composing into rectangles or decomposing into triangles and other shapes; apply these techniques in the context of solving real-world and mathematical problems.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.G.2",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Solve real-world and mathematical problems involving area, surface area, and volume.",
+      "description": "Find the volume of a right rectangular prism with fractional edge lengths by packing it with unit cubes of the appropriate unit fraction edge lengths, and show that the volume is the same as would be found by multiplying the edge lengths of the prism. Apply the formulas V = l w h and V = b h to find volumes of right rectangular prisms with fractional edge lengths in the context of solving real-world and mathematical problems.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.G.3",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Solve real-world and mathematical problems involving area, surface area, and volume.",
+      "description": "Draw polygons in the coordinate plane given coordinates for the vertices; use coordinates to find the length of a side joining points with the same first coordinate or the same second coordinate. Apply these techniques in the context of solving real-world and mathematical problems.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.G.4",
+      "domain": "Geometry",
+      "domain_code": "G",
+      "cluster": "Solve real-world and mathematical problems involving area, surface area, and volume.",
+      "description": "Represent three-dimensional figures using nets made up of rectangles and triangles, and use the nets to find the surface area of these figures. Apply these techniques in the context of solving real-world and mathematical problems.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.1",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Apply and extend previous understandings of multiplication and division to divide fractions by fractions.",
+      "description": "Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions, e.g., by using visual fraction models and equations to represent the problem. For example, create a story context for (2/3) ÷ (3/4) and use a visual fraction model to show the quotient; use the relationship between multiplication and division to explain that (2/3) ÷ (3/4) = 8/9 because 3/4 of 8/9 is 2/3. (In general, (a/b) ÷ (c/d) = ad/bc.) How much chocolate will each person get if 3 people share 1/2 lb of chocolate equally? How many 3/4-cup servings are in 2/3 of a cup of yogurt? How wide is a rectangular strip of land with length 3/4 mi and area 1/2 square mi?",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.2",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Compute fluently with multi-digit numbers and find common factors and multiples.",
+      "description": "Fluently divide multi-digit numbers using the standard algorithm.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.3",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Compute fluently with multi-digit numbers and find common factors and multiples.",
+      "description": "Fluently add, subtract, multiply, and divide multi-digit decimals using the standard algorithm for each operation.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.4",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Compute fluently with multi-digit numbers and find common factors and multiples.",
+      "description": "Find the greatest common factor of two whole numbers less than or equal to 100 and the least common multiple of two whole numbers less than or equal to 12. Use the distributive property to express a sum of two whole numbers 1—100 with a common factor as a multiple of a sum of two whole numbers with no common factor. For example, express 36 + 8 as 4 (9 + 2).",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.5",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Apply and extend previous understandings of numbers to the system of rational numbers.",
+      "description": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below zero, elevation above/below sea level, credits/debits, positive/negative electric charge); use positive and negative numbers to represent quantities in real-world contexts, explaining the meaning of 0 in each situation.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.6a",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
+      "description": "Recognize opposite signs of numbers as indicating locations on opposite sides of 0 on the number line; recognize that the opposite of the opposite of a number is the number itself, e.g., —(—3) = 3, and that 0 is its own opposite.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.6b",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
+      "description": "Understand signs of numbers in ordered pairs as indicating locations in quadrants of the coordinate plane; recognize that when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.6c",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
+      "description": "Find and position integers and other rational numbers on a horizontal or vertical number line diagram; find and position pairs of integers and other rational numbers on a coordinate plane.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.7a",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Understand ordering and absolute value of rational numbers.",
+      "description": "Interpret statements of inequality as statements about the relative position of two numbers on a number line diagram. For example, interpret -3 &gt; -7 as a statement that -3 is located to the right of -7 on a number line oriented from left to right.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.7b",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Understand ordering and absolute value of rational numbers.",
+      "description": "Write, interpret, and explain statements of order for rational numbers in real-world contexts. For example, write -3 °C &gt; -7 °C to express the fact that -3 °C is warmer than -7 °C.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.7c",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Understand ordering and absolute value of rational numbers.",
+      "description": "Understand the absolute value of a rational number as its distance from 0 on the number line; interpret absolute value as magnitude for a positive or negative quantity in a real-world situation. For example, for an account balance of -30 dollars, write |-30| = 30 to describe the size of the debt in dollars.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.7d",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Understand ordering and absolute value of rational numbers.",
+      "description": "Distinguish comparisons of absolute value from statements about order. For example, recognize that an account balance less than -30 dollars represents a debt greater than 30 dollars.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.NS.8",
+      "domain": "The Number System",
+      "domain_code": "NS",
+      "cluster": "Apply and extend previous understandings of numbers to the system of rational numbers.",
+      "description": "Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane. Include use of coordinates and absolute value to find distances between points with the same first coordinate or the same second coordinate.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.RP.1",
+      "domain": "Ratios and Proportional Relationships",
+      "domain_code": "RP",
+      "cluster": "Understand ratio concepts and use ratio reasoning to solve problems.",
+      "description": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities. For example, &quot;The ratio of wings to beaks in the bird house at the zoo was 2:1, because for every 2 wings there was 1 beak.&quot; &quot;For every vote candidate A received, candidate C received nearly three votes.&quot;",
+      "grade_level": 6
+    },
+    {
+      "code": "6.RP.2",
+      "domain": "Ratios and Proportional Relationships",
+      "domain_code": "RP",
+      "cluster": "Understand ratio concepts and use ratio reasoning to solve problems.",
+      "description": "Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship. Expectations for unit rates in this grade are limited to non-complex fractions. For example, &quot;This recipe has a ratio of 3 cups of flour to 4 cups of sugar, so there is 3/4 cup of flour for each cup of sugar.&quot; &quot;We paid $75 for 15 hamburgers, which is a rate of $5 per hamburger.&quot;",
+      "grade_level": 6
+    },
+    {
+      "code": "6.RP.3a",
+      "domain": "Ratios and Proportional Relationships",
+      "domain_code": "RP",
+      "cluster": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+      "description": "Make tables of equivalent ratios relating quantities with whole number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.RP.3b",
+      "domain": "Ratios and Proportional Relationships",
+      "domain_code": "RP",
+      "cluster": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+      "description": "Solve unit rate problems including those involving unit pricing and constant speed. For example, if it took 7 hours to mow 4 lawns, then at that rate, how many lawns could be mowed in 35 hours? At what rate were lawns being mowed?",
+      "grade_level": 6
+    },
+    {
+      "code": "6.RP.3c",
+      "domain": "Ratios and Proportional Relationships",
+      "domain_code": "RP",
+      "cluster": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+      "description": "Find a percent of a quantity as a rate per 100 (e.g., 30% of a quantity means 30/100 times the quantity); solve problems involving finding the whole, given a part and the percent.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.RP.3d",
+      "domain": "Ratios and Proportional Relationships",
+      "domain_code": "RP",
+      "cluster": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+      "description": "Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.SP.1",
+      "domain": "Statistics and Probability",
+      "domain_code": "SP",
+      "cluster": "Develop understanding of statistical variability.",
+      "description": "Recognize a statistical question as one that anticipates variability in the data related to the question and accounts for it in the answers. For example, &quot;How old am I?&quot; is not a statistical question, but &quot;How old are the students in my school?&quot; is a statistical question because one anticipates variability in students' ages.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.SP.2",
+      "domain": "Statistics and Probability",
+      "domain_code": "SP",
+      "cluster": "Develop understanding of statistical variability.",
+      "description": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.SP.3",
+      "domain": "Statistics and Probability",
+      "domain_code": "SP",
+      "cluster": "Develop understanding of statistical variability.",
+      "description": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.SP.4",
+      "domain": "Statistics and Probability",
+      "domain_code": "SP",
+      "cluster": "Summarize and describe distributions.",
+      "description": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.SP.5a",
+      "domain": "Statistics and Probability",
+      "domain_code": "SP",
+      "cluster": "Summarize numerical data sets in relation to their context, such as by:",
+      "description": "Reporting the number of observations.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.SP.5b",
+      "domain": "Statistics and Probability",
+      "domain_code": "SP",
+      "cluster": "Summarize numerical data sets in relation to their context, such as by:",
+      "description": "Describing the nature of the attribute under investigation, including how it was measured and its units of measurement.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.SP.5c",
+      "domain": "Statistics and Probability",
+      "domain_code": "SP",
+      "cluster": "Summarize numerical data sets in relation to their context, such as by:",
+      "description": "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered.",
+      "grade_level": 6
+    },
+    {
+      "code": "6.SP.5d",
+      "domain": "Statistics and Probability",
+      "domain_code": "SP",
+      "cluster": "Summarize numerical data sets in relation to their context, such as by:",
+      "description": "Relating the choice of measures of center and variability to the shape of the data distribution and the context in which the data were gathered.",
+      "grade_level": 6
+    }
+  ]
+}

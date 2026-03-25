@@ -3,7 +3,7 @@ class LessonsController < ApplicationController
     @grade = Grade.find(params[:grade_id])
     @content_module = @grade.content_modules.find(params[:content_module_id])
     @topic = @content_module.topics.find(params[:topic_id])
-    @lesson = @topic.lessons.includes(:lesson_plan, :problem_set, :exit_ticket, :homework).find(params[:id])
+    @lesson = @topic.lessons.includes(:lesson_plan, :problem_set, :exit_ticket, :homework, :supplemental_resources).find(params[:id])
   end
 
   # GET /lessons/:id/reconstructed

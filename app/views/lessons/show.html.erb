@@ -57,6 +57,47 @@
     </div>
   </div>
 
+  <% video = @lesson.supplemental_resources.find { |r| r.resource_type == "video" && r.url.present? } %>
+  <% if video %>
+    <% video_id = youtube_video_id(video.url) %>
+    <% if video_id %>
+      <div class="bg-white rounded-lg border border-gray-200 overflow-hidden">
+        <div class="px-5 py-3 bg-gray-50 border-b border-gray-200">
+          <h2 class="font-semibold">Lesson Video</h2>
+        </div>
+        <div class="aspect-video">
+          <iframe
+            src="https://www.youtube.com/embed/<%= video_id %>"
+            class="w-full h-full border-0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+    <% end %>
+  <% end %>
+
+  <% supplementals = displayable_supplemental_resources(@lesson.supplemental_resources.reject { |r| r.resource_type == "video" }) %>
+  <% if supplementals.any? %>
+    <div class="bg-white rounded-lg border border-gray-200 p-5">
+      <h2 class="font-semibold mb-3">Supplemental Resources</h2>
+      <div class="flex flex-wrap gap-3">
+        <% supplementals.each do |resource| %>
+          <%= link_to supplemental_label(resource),
+                supplemental_url(resource),
+                target: "_blank",
+                rel: "noopener",
+                class: "px-4 py-2 bg-white border border-gray-300 rounded hover:bg-gray-50 text-sm" %>
+        <% end %>
+      </div>
+      <p class="text-xs text-gray-400 mt-3">
+        Supplemental materials from
+        <%= link_to "EMBARC.Online", "https://embarc.online", target: "_blank", rel: "noopener", class: "underline" %>,
+        licensed under CC BY-NC-SA 4.0.
+      </p>
+    </div>
+  <% end %>
+
   <% if @lesson.lesson_plan %>
     <div class="bg-white rounded-lg border border-gray-200 overflow-hidden">
       <div class="px-5 py-3 bg-gray-50 border-b border-gray-200">
