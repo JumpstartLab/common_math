@@ -1,0 +1,72 @@
+<% content_for :breadcrumbs do %>
+  <%= link_to @grade.title, grade_path(@grade), class: "text-gray-600 hover:text-indigo-700" %>
+  <span class="text-gray-400">/</span>
+  <%= link_to "Module #{@content_module.number}", grade_content_module_path(@grade, @content_module), class: "text-gray-600 hover:text-indigo-700" %>
+  <span class="text-gray-400">/</span>
+  <%= link_to "Topic #{@topic.letter}", grade_content_module_topic_path(@grade, @content_module, @topic), class: "text-gray-600 hover:text-indigo-700" %>
+  <span class="text-gray-400">/</span>
+  <span class="text-gray-600">Lesson <%= @lesson.number %></span>
+<% end %>
+
+<h1 class="text-2xl font-bold mb-1">Lesson <%= @lesson.number %></h1>
+<% if @lesson.objective.present? %>
+  <p class="text-gray-600 mb-6"><%= @lesson.objective %></p>
+<% end %>
+
+<div class="space-y-4">
+  <div class="bg-white rounded-lg border border-gray-200 p-5">
+    <h2 class="font-semibold mb-3">View Components</h2>
+    <div class="flex flex-wrap gap-3">
+      <%= link_to "PDF",
+            pdf_lesson_path(@lesson),
+            target: "_blank",
+            class: "px-4 py-2 bg-indigo-600 text-white rounded hover:bg-indigo-700 text-sm" %>
+
+      <%= link_to "Full HTML",
+            reconstructed_lesson_path(@lesson),
+            target: "_blank",
+            class: "px-4 py-2 bg-white border border-gray-300 rounded hover:bg-gray-50 text-sm" %>
+
+      <% if @lesson.lesson_plan %>
+        <%= link_to "Lesson Plan",
+              component_lesson_path(@lesson, type: "lesson_plan"),
+              target: "_blank",
+              class: "px-4 py-2 bg-white border border-gray-300 rounded hover:bg-gray-50 text-sm" %>
+      <% end %>
+
+      <% if @lesson.problem_set %>
+        <%= link_to "Problem Set",
+              component_lesson_path(@lesson, type: "problem_set"),
+              target: "_blank",
+              class: "px-4 py-2 bg-white border border-gray-300 rounded hover:bg-gray-50 text-sm" %>
+      <% end %>
+
+      <% if @lesson.exit_ticket %>
+        <%= link_to "Exit Ticket",
+              component_lesson_path(@lesson, type: "exit_ticket"),
+              target: "_blank",
+              class: "px-4 py-2 bg-white border border-gray-300 rounded hover:bg-gray-50 text-sm" %>
+      <% end %>
+
+      <% if @lesson.homework %>
+        <%= link_to "Homework",
+              component_lesson_path(@lesson, type: "homework"),
+              target: "_blank",
+              class: "px-4 py-2 bg-white border border-gray-300 rounded hover:bg-gray-50 text-sm" %>
+      <% end %>
+    </div>
+  </div>
+
+  <% if @lesson.lesson_plan %>
+    <div class="bg-white rounded-lg border border-gray-200 overflow-hidden">
+      <div class="px-5 py-3 bg-gray-50 border-b border-gray-200">
+        <h2 class="font-semibold">Lesson Plan Preview</h2>
+      </div>
+      <iframe
+        src="<%= component_lesson_path(@lesson, type: 'lesson_plan') %>"
+        class="w-full border-0"
+        style="height: 600px;"
+      ></iframe>
+    </div>
+  <% end %>
+</div>

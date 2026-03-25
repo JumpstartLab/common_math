@@ -1,0 +1,33 @@
+<% content_for :breadcrumbs do %>
+  <%= link_to @grade.title, grade_path(@grade), class: "text-gray-600 hover:text-indigo-700" %>
+  <span class="text-gray-400">/</span>
+  <%= link_to "Module #{@content_module.number}", grade_content_module_path(@grade, @content_module), class: "text-gray-600 hover:text-indigo-700" %>
+  <span class="text-gray-400">/</span>
+  <span class="text-gray-600">Topic <%= @topic.letter %></span>
+<% end %>
+
+<h1 class="text-2xl font-bold mb-1">Topic <%= @topic.letter %></h1>
+<p class="text-lg text-gray-600 mb-6"><%= @topic.title %></p>
+
+<div class="space-y-3">
+  <% @lessons.each do |lesson| %>
+    <div class="bg-white rounded-lg border border-gray-200 p-4 flex justify-between items-start">
+      <div>
+        <h2 class="font-semibold">
+          <%= link_to "Lesson #{lesson.number}",
+                grade_content_module_topic_lesson_path(@grade, @content_module, @topic, lesson),
+                class: "text-indigo-700 hover:underline" %>
+        </h2>
+        <% if lesson.objective.present? %>
+          <p class="text-sm text-gray-600 mt-1"><%= lesson.objective %></p>
+        <% end %>
+      </div>
+      <div class="flex gap-2 text-xs text-gray-400 shrink-0 ml-4">
+        <span>LP</span>
+        <span class="<%= lesson.problem_set ? 'text-green-600' : 'text-gray-300' %>">PS</span>
+        <span class="<%= lesson.exit_ticket ? 'text-green-600' : 'text-gray-300' %>">ET</span>
+        <span class="<%= lesson.homework ? 'text-green-600' : 'text-gray-300' %>">HW</span>
+      </div>
+    </div>
+  <% end %>
+</div>
