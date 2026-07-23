@@ -7,7 +7,7 @@ class CreateStandardTaggings < ActiveRecord::Migration[8.1]
       t.timestamps
     end
 
-    add_index :standard_taggings, [:standard_id, :taggable_type, :taggable_id],
+    add_index :standard_taggings, [ :standard_id, :taggable_type, :taggable_id ],
               unique: true, name: "idx_standard_taggings_uniqueness"
   end
 end

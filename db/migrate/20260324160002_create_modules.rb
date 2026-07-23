@@ -10,7 +10,7 @@ class CreateModules < ActiveRecord::Migration[8.1]
       t.timestamps
     end
 
-    add_index :content_modules, [:grade_id, :number], unique: true
-    add_index :content_modules, [:grade_id, :position]
+    add_index :content_modules, [ :grade_id, :number ], unique: true
+    add_index :content_modules, [ :grade_id, :position ]
   end
 end

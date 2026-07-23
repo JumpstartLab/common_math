@@ -101,7 +101,7 @@ module Engageny
     # We keep only the final (inserted) content and discard deletions.
     def try_strip_track_changes(xml)
       # Check for ins/del in either namespace
-      return [xml, nil] unless xml.match?(/(?:<[mw]:ins\b|<[mw]:del\b)/)
+      return [ xml, nil ] unless xml.match?(/(?:<[mw]:ins\b|<[mw]:del\b)/)
 
       doc = Nokogiri::XML(xml)
       word_ns = "http://schemas.openxmlformats.org/wordprocessingml/2006/main"
@@ -110,7 +110,7 @@ module Engageny
       changed = false
 
       # Remove <w:del> and <m:del> elements entirely (deleted content)
-      [["w", word_ns], ["m", math_ns]].each do |prefix, ns|
+      [ [ "w", word_ns ], [ "m", math_ns ] ].each do |prefix, ns|
         doc.xpath("//#{prefix}:del", prefix => ns).each do |del|
           del.remove
           changed = true
@@ -118,7 +118,7 @@ module Engageny
       end
 
       # Unwrap <w:ins> and <m:ins> elements (keep children, remove wrapper)
-      [["w", word_ns], ["m", math_ns]].each do |prefix, ns|
+      [ [ "w", word_ns ], [ "m", math_ns ] ].each do |prefix, ns|
         doc.xpath("//#{prefix}:ins", prefix => ns).each do |ins|
           ins.children.each { |child| ins.add_previous_sibling(child) }
           ins.remove
@@ -126,7 +126,7 @@ module Engageny
         end
       end
 
-      [doc.root.to_xml, changed ? FIXES[:strip_track_changes] : nil]
+      [ doc.root.to_xml, changed ? FIXES[:strip_track_changes] : nil ]
     end
 
     # Fix: Convert <m:sym> special symbol references to Unicode.
@@ -148,12 +148,12 @@ module Engageny
       "Symbol:F070" => "\u03C0",    # pi π
       "Symbol:F071" => "\u03B8",    # theta θ
       "Symbol:F044" => "\u0394",    # Delta Δ
-      "Symbol:F053" => "\u03A3",    # Sigma Σ
+      "Symbol:F053" => "\u03A3"    # Sigma Σ
     }.freeze
 
     def try_sym_to_unicode(xml)
       # <w:sym> lives in the Word namespace, not math namespace
-      return [xml, nil] unless xml.match?(/(?:<[mw]:sym\b)/)
+      return [ xml, nil ] unless xml.match?(/(?:<[mw]:sym\b)/)
 
       doc = Nokogiri::XML(xml)
       changed = false
@@ -184,7 +184,7 @@ module Engageny
         end
       end
 
-      [doc.root.to_xml, changed ? FIXES[:sym_to_unicode] : nil]
+      [ doc.root.to_xml, changed ? FIXES[:sym_to_unicode] : nil ]
     end
 
     def extract_text(omml_xml)

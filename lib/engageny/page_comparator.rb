@@ -1,5 +1,6 @@
 require "ferrum"
 require "fileutils"
+require "zip"
 
 module Engageny
   class PageComparator
@@ -37,7 +38,7 @@ module Engageny
         browser_path: CHROME_PATH,
         headless: "new",
         timeout: 30,
-        window_size: [900, 1200]
+        window_size: [ 900, 1200 ]
       )
 
       begin
@@ -92,18 +93,14 @@ module Engageny
       return nil unless zip_path.exist?
 
       # Find the PDF inside the ZIP
-      output = `unzip -l "#{zip_path}" 2>/dev/null | grep "#{pdf_name}" | grep -v Archived`
-      return nil if output.strip.empty?
-
-      # Extract the path from the unzip listing
-      zip_entry = output.strip.split(/\s+/, 4).last
+      zip_entry = Zip::File.open(zip_path.to_s) do |zip|
+        zip.glob("**/*#{pdf_name}").reject { |e| e.name.include?("Archived") }.first&.name
+      end
       return nil unless zip_entry
 
       dest = OUTPUT_DIR.join("original.pdf")
-      system("unzip", "-o", zip_path.to_s, zip_entry, "-d", OUTPUT_DIR.to_s)
+      Zip::File.open(zip_path.to_s) { |zip| zip.extract(zip_entry, dest.to_s) { true } }
 
-      extracted = OUTPUT_DIR.join(zip_entry)
-      FileUtils.cp(extracted, dest) if extracted.exist?
       dest.exist? ? dest : nil
     end
 

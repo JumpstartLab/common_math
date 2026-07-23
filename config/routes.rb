@@ -3,10 +3,10 @@ Rails.application.routes.draw do
 
   root "grades#index"
 
-  resources :grades, only: [:show] do
-    resources :content_modules, only: [:show], path: "modules" do
-      resources :topics, only: [:show] do
-        resources :lessons, only: [:show]
+  resources :grades, only: [ :show ] do
+    resources :content_modules, only: [ :show ], path: "modules" do
+      resources :topics, only: [ :show ] do
+        resources :lessons, only: [ :show ]
       end
     end
   end

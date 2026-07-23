@@ -15,7 +15,7 @@ class CreateExpressions < ActiveRecord::Migration[8.1]
       t.timestamps
     end
 
-    add_index :expressions, [:source_type, :source_id, :position], unique: true,
+    add_index :expressions, [ :source_type, :source_id, :position ], unique: true,
               name: "idx_expressions_source_position"
     add_index :expressions, :conversion_status
   end

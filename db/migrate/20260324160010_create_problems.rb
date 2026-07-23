@@ -10,6 +10,6 @@ class CreateProblems < ActiveRecord::Migration[8.1]
       t.timestamps
     end
 
-    add_index :problems, [:source_type, :source_id, :position], unique: true
+    add_index :problems, [ :source_type, :source_id, :position ], unique: true
   end
 end
