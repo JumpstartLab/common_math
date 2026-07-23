@@ -47,6 +47,10 @@ gem "ferrum"
 
 # Math markup conversion (OMML ↔ MathML ↔ LaTeX ↔ AsciiMath)
 gem "plurimath", github: "jcasimir/plurimath", branch: "main"
+# Pin plurimath's own markup dependencies: newer releases restructure APIs
+# (e.g. mml drops `mml/configuration`) that this plurimath revision requires.
+gem "mml", "= 2.0.3"
+gem "lutaml-model", "= 0.7.7"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
