@@ -62,7 +62,7 @@ module Engageny
     def split_document
       # Find the boundary between head and body content
       body_match = @html.match(/\A(.*?<body[^>]*>)(.*)\z/m)
-      return ["", [], ""] unless body_match
+      return [ "", [], "" ] unless body_match
 
       head = body_match[1]
       body = body_match[2]
@@ -77,7 +77,7 @@ module Engageny
       body_close = body.index("</body>") || body.length
 
       if section_starts.empty?
-        return [head + body[0...body_close], [], body[body_close..]]
+        return [ head + body[0...body_close], [], body[body_close..] ]
       end
 
       # Head includes everything up to and including the first section's start
@@ -92,7 +92,7 @@ module Engageny
 
       tail = body[body_close..]
 
-      [full_head, sections, tail]
+      [ full_head, sections, tail ]
     end
 
     def find_student_section_indices

@@ -14,7 +14,7 @@ class CreateSupplementalResources < ActiveRecord::Migration[8.1]
     end
 
     add_index :supplemental_resources,
-              [:resourceable_type, :resourceable_id, :resource_type],
+              [ :resourceable_type, :resourceable_id, :resource_type ],
               name: "idx_supplemental_resources_lookup"
     add_index :supplemental_resources, :resource_type
     add_index :supplemental_resources, :source

@@ -28,7 +28,7 @@ DOMAIN_NAMES = {
 }.freeze
 
 TARGET_GRADES = %w[04 05 06].freeze
-TARGET_GRADE_INTS = [4, 5, 6].freeze
+TARGET_GRADE_INTS = [ 4, 5, 6 ].freeze
 
 $stderr.puts "Fetching CCSS data from #{SOURCE_URL}..."
 raw = URI.open(SOURCE_URL).read
@@ -104,7 +104,7 @@ all_entries.each do |entry|
 end
 
 # Sort by grade, domain, then code
-standards.sort_by! { |s| [s[:grade_level], s[:domain_code], s[:code]] }
+standards.sort_by! { |s| [ s[:grade_level], s[:domain_code], s[:code] ] }
 
 output = {
   source: "Common Core State Standards via SirFizX/standards-data (GitHub)",

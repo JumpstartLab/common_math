@@ -37,7 +37,7 @@ module Engageny
         browser_path: CHROME_PATH,
         headless: "new",
         timeout: 30,
-        window_size: [900, 1200]
+        window_size: [ 900, 1200 ]
       )
 
       begin

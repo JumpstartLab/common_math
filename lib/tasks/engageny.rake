@@ -70,8 +70,8 @@ namespace :engageny do
         original.chars.each_with_index do |c, i|
           if reconstructed[i] != c
             puts "  First diff at byte #{i}"
-            puts "  Original:      #{original[[i - 30, 0].max..i + 30].inspect}"
-            puts "  Reconstructed: #{reconstructed[[i - 30, 0].max..i + 30].inspect}"
+            puts "  Original:      #{original[[ i - 30, 0 ].max..i + 30].inspect}"
+            puts "  Reconstructed: #{reconstructed[[ i - 30, 0 ].max..i + 30].inspect}"
             break
           end
         end
@@ -82,7 +82,7 @@ namespace :engageny do
   end
 
   desc "Visual comparison: screenshot HTML rendering and compare against original PDF"
-  task :compare, [:lesson_id] => :environment do |_t, args|
+  task :compare, [ :lesson_id ] => :environment do |_t, args|
     require_relative "../engageny/html_parser"
     require_relative "../engageny/html_normalizer"
     require "ferrum"
@@ -126,7 +126,7 @@ namespace :engageny do
       browser_path: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
       headless: "new",
       timeout: 30,
-      window_size: [1000, 1400]
+      window_size: [ 1000, 1400 ]
     )
 
     browser.goto("data:text/html;charset=utf-8,#{ERB::Util.url_encode(html)}")

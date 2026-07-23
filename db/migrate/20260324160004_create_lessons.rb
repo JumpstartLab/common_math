@@ -9,7 +9,7 @@ class CreateLessons < ActiveRecord::Migration[8.1]
       t.timestamps
     end
 
-    add_index :lessons, [:topic_id, :number], unique: true
-    add_index :lessons, [:topic_id, :position]
+    add_index :lessons, [ :topic_id, :number ], unique: true
+    add_index :lessons, [ :topic_id, :position ]
   end
 end

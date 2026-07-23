@@ -10,6 +10,6 @@ class CreateAssessments < ActiveRecord::Migration[8.1]
       t.timestamps
     end
 
-    add_index :assessments, [:content_module_id, :assessment_type], unique: true
+    add_index :assessments, [ :content_module_id, :assessment_type ], unique: true
   end
 end

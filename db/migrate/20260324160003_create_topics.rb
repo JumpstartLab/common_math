@@ -10,7 +10,7 @@ class CreateTopics < ActiveRecord::Migration[8.1]
       t.timestamps
     end
 
-    add_index :topics, [:content_module_id, :letter], unique: true
-    add_index :topics, [:content_module_id, :position]
+    add_index :topics, [ :content_module_id, :letter ], unique: true
+    add_index :topics, [ :content_module_id, :position ]
   end
 end
