@@ -105,13 +105,25 @@ GEM
     bundler-audit (0.9.3)
       bundler (>= 1.2.0)
       thor (~> 1.0)
+    canon (0.2.12)
+      diff-lcs
+      json
+      moxml (~> 0.1.22)
+      nokogiri
+      paint
+      rainbow
+      table_tennis
+      thor
+      unicode-name
     concurrent-ruby (1.3.8)
     connection_pool (3.0.2)
     crass (1.0.7)
+    csv (3.3.6)
     date (3.5.1)
     debug (1.11.1)
       irb (~> 1.10)
       reline (>= 0.3.8)
+    diff-lcs (2.0.0)
     dotenv (3.2.0)
     drb (2.2.3)
     ebnf (2.6.0)
@@ -132,6 +144,13 @@ GEM
       concurrent-ruby (~> 1.1)
       webrick (~> 1.7)
       websocket-driver (~> 0.7)
+    ffi (1.17.4-aarch64-linux-gnu)
+    ffi (1.17.4-aarch64-linux-musl)
+    ffi (1.17.4-arm-linux-gnu)
+    ffi (1.17.4-arm-linux-musl)
+    ffi (1.17.4-arm64-darwin)
+    ffi (1.17.4-x86_64-linux-gnu)
+    ffi (1.17.4-x86_64-linux-musl)
     fugit (1.12.1)
       et-orbi (~> 1.4)
       raabro (~> 1.4)
@@ -169,12 +188,22 @@ GEM
     language_server-protocol (3.17.0.5)
     link_header (0.0.8)
     lint_roller (1.1.0)
+    liquid (5.13.0)
+      bigdecimal
+      strscan (>= 3.1.1)
     logger (1.7.0)
     loofah (2.25.2)
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
-    lutaml-model (0.7.7)
-      moxml (>= 0.1.2)
+    lutaml-model (0.8.19)
+      base64
+      bigdecimal
+      canon
+      concurrent-ruby
+      liquid (>= 4.0, < 6.0)
+      moxml (~> 0.1.25)
+      ostruct
+      rubyzip (~> 2.3)
       thor
     mail (2.9.0)
       logger
@@ -184,6 +213,7 @@ GEM
       net-smtp
     marcel (1.1.0)
     matrix (0.4.3)
+    memo_wise (1.13.0)
     mini_mime (1.1.5)
     minitest (6.0.6)
       drb (~> 2.0)
@@ -191,7 +221,7 @@ GEM
     mml (2.0.3)
       lutaml-model
       moxml
-    moxml (0.1.10)
+    moxml (0.1.26)
     msgpack (1.8.3)
     net-imap (0.6.4.1)
       date
@@ -225,6 +255,7 @@ GEM
     ostruct (0.6.3)
     ox (2.14.23)
       bigdecimal (>= 3.0)
+    paint (2.3.0)
     parallel (1.27.0)
     parser (3.3.10.2)
       ast (~> 2.4.1)
@@ -364,9 +395,16 @@ GEM
       ostruct
     stimulus-rails (1.3.4)
       railties (>= 6.0.0)
+    strscan (3.1.8)
     sxp (2.0.0)
       matrix (~> 0.4)
       rdf (~> 3.3)
+    table_tennis (1.0.0)
+      csv (~> 3.3)
+      ffi (~> 1.17)
+      memo_wise (~> 1.13)
+      paint (~> 2.3)
+      unicode-display_width (~> 3.2)
     tailwindcss-rails (4.6.0)
       railties (>= 7.0.0)
       tailwindcss-ruby (~> 4.0)
@@ -393,6 +431,8 @@ GEM
     unicode-display_width (3.2.0)
       unicode-emoji (~> 4.1)
     unicode-emoji (4.2.0)
+    unicode-name (1.14.0)
+      unicode-types (~> 1.11)
     unicode-types (1.11.0)
     unitsdb (2.1.1)
       lutaml-model (~> 0.7)
@@ -401,9 +441,9 @@ GEM
       rubyzip (~> 2.3)
       terminal-table
       thor (~> 1.0)
-    unitsml (0.5.1)
+    unitsml (0.6.0)
       htmlentities
-      lutaml-model (~> 0.7.6)
+      lutaml-model (~> 0.8.0)
       mml
       parslet
       unitsdb (~> 2.0)
@@ -441,7 +481,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   kamal
-  lutaml-model (= 0.7.7)
+  lutaml-model (= 0.8.19)
   mml (= 2.0.3)
   pg (~> 1.1)
   plurimath!
