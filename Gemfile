@@ -43,7 +43,7 @@ gem "kamal", require: false
 gem "thruster", require: false
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
-gem "image_processing", "~> 2.0"
+gem "image_processing", "~> 2.1"
 # Rails 8.1's Active Storage engine loads the vips transformer unconditionally
 # at boot (even though this app doesn't use variants yet), so this is required
 # just to boot the app, not only to process images.
