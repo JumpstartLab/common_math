@@ -9,6 +9,19 @@
 <h1 class="text-2xl font-bold mb-1">Topic <%= @topic.letter %></h1>
 <p class="text-lg text-gray-600 mb-6"><%= @topic.title %></p>
 
+<% if @topic.standards.any? %>
+  <div class="flex flex-wrap gap-2 mb-6">
+    <% @topic.standards.each do |standard| %>
+      <span class="text-xs px-2 py-1 bg-gray-100 rounded text-gray-700"><%= standard.code %></span>
+    <% end %>
+    <% @topic.state_standard_taggings.fresh.each do |tagging| %>
+      <%= link_to "#{tagging.target_framework}: #{tagging.state_code}",
+            state_standard_code_path(tagging.target_framework, tagging.state_code),
+            class: "text-xs px-2 py-1 bg-indigo-50 text-indigo-700 rounded hover:bg-indigo-100" %>
+    <% end %>
+  </div>
+<% end %>
+
 <% supplementals = displayable_supplemental_resources(@topic.supplemental_resources) %>
 <% if supplementals.any? %>
   <div class="bg-white rounded-lg border border-gray-200 p-5 mb-6">
