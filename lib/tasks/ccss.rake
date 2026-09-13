@@ -1,7 +1,7 @@
 namespace :ccss do
   desc "Import Common Core State Standards from JSON"
   task import: :environment do
-    path = Rails.root.join("data/ccss-math-grades-4-6.json")
+    path = Rails.root.join("data/ccss-math-grades-4-8.json")
     data = JSON.parse(File.read(path))
 
     created = 0

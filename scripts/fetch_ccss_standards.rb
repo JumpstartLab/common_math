@@ -1,18 +1,18 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Fetches Common Core State Standards for Mathematics (Grades 4-6) from the
+# Fetches Common Core State Standards for Mathematics (Grades 4-8) from the
 # SirFizX/standards-data GitHub repo and structures them for CommonMath.
 #
 # Usage:
 #   ruby scripts/fetch_ccss_standards.rb
 #
-# Output: data/ccss-math-grades-4-6.json
+# Output: data/ccss-math-grades-4-8.json
 
 require "open-uri"
 require "json"
 
-OUTPUT_PATH = File.expand_path("../data/ccss-math-grades-4-6.json", __dir__)
+OUTPUT_PATH = File.expand_path("../data/ccss-math-grades-4-8.json", __dir__)
 SOURCE_URL = "https://raw.githubusercontent.com/SirFizX/standards-data/master/clean-data/CC/math/CC-math-0.8.0.json"
 
 DOMAIN_NAMES = {
@@ -24,11 +24,12 @@ DOMAIN_NAMES = {
   "RP" => "Ratios and Proportional Relationships",
   "NS" => "The Number System",
   "EE" => "Expressions and Equations",
-  "SP" => "Statistics and Probability"
+  "SP" => "Statistics and Probability",
+  "F" => "Functions"
 }.freeze
 
-TARGET_GRADES = %w[04 05 06].freeze
-TARGET_GRADE_INTS = [ 4, 5, 6 ].freeze
+TARGET_GRADES = %w[04 05 06 07 08].freeze
+TARGET_GRADE_INTS = [ 4, 5, 6, 7, 8 ].freeze
 
 $stderr.puts "Fetching CCSS data from #{SOURCE_URL}..."
 raw = URI.open(SOURCE_URL).read
@@ -49,7 +50,7 @@ all_entries.each do |entry|
   clusters[entry["code"]] = entry["statement"]
 end
 
-$stderr.puts "Found #{clusters.length} clusters for grades 4-6"
+$stderr.puts "Found #{clusters.length} clusters for grades #{TARGET_GRADE_INTS.first}-#{TARGET_GRADE_INTS.last}"
 
 # Second pass: extract leaf standards
 standards = []
