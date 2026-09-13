@@ -2,6 +2,9 @@ source "https://rubygems.org"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 8.1.2"
+# Pin json below 3.x: json 3.x breaks ActiveSupport::JSON.decode on
+# activesupport 8.1.3.1 (same issue interstandard hit and pinned around).
+gem "json", "~> 2.9"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 # Use postgresql as the database for Active Record
@@ -51,6 +54,10 @@ gem "plurimath", github: "jcasimir/plurimath", branch: "main"
 # (e.g. mml drops `mml/configuration`) that this plurimath revision requires.
 gem "mml", "= 2.0.3"
 gem "lutaml-model", "= 0.7.7"
+# unitsdb (unitsml's own dependency) moved to lutaml-model ~> 0.8 as of 2.2.x,
+# which conflicts with the pin above; without this the resolver can't
+# backtrack cleanly and fails on any `bundle update`, even for unrelated gems.
+gem "unitsdb", "~> 2.1.0"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
