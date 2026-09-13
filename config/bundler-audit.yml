@@ -3,3 +3,9 @@
 
 ignore:
   - CVE-THAT-DOES-NOT-APPLY
+  # rubyzip path traversal (GHSA-47m2-wp7j-p9vc). Fixed only in rubyzip >= 3.4.0,
+  # but unitsdb (a dependency of unitsml, required by our pinned plurimath) hard-pins
+  # rubyzip ~> 2.3 through its latest release (2.2.4) and requires lutaml-model ~> 0.8,
+  # which conflicts with this app's lutaml-model = 0.7.7 pin. No upgrade path exists
+  # without dropping the math-markup stack. Revisit if unitsdb relaxes its pin.
+  - CVE-2026-85396
