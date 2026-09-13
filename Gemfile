@@ -44,6 +44,10 @@ gem "thruster", require: false
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 gem "image_processing", "~> 2.0"
+# Rails 8.1's Active Storage engine loads the vips transformer unconditionally
+# at boot (even though this app doesn't use variants yet), so this is required
+# just to boot the app, not only to process images.
+gem "ruby-vips", "~> 2.0"
 
 # Headless Chrome for HTML-to-PDF rendering
 gem "ferrum"
@@ -58,6 +62,11 @@ gem "lutaml-model", "= 0.7.7"
 # which conflicts with the pin above; without this the resolver can't
 # backtrack cleanly and fails on any `bundle update`, even for unrelated gems.
 gem "unitsdb", "~> 2.1.0"
+
+group :test do
+  # Stub Net::HTTP calls to the Interstandard API in tests
+  gem "webmock", require: false
+end
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem

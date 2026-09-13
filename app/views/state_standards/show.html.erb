@@ -1,0 +1,21 @@
+<% content_for :breadcrumbs do %>
+  <%= link_to "States", state_standards_path, class: "text-gray-600 hover:text-indigo-700" %>
+  <span class="text-gray-400">/</span>
+  <span class="text-gray-600"><%= @framework %></span>
+<% end %>
+
+<h1 class="text-2xl font-bold mb-6"><%= @framework %></h1>
+
+<div class="space-y-3">
+  <% @codes.each do |entry| %>
+    <div class="bg-white rounded-lg border border-gray-200 p-4">
+      <h2 class="font-semibold">
+        <%= link_to entry[:code], state_standard_code_path(@framework, entry[:code]), class: "text-indigo-700 hover:underline" %>
+      </h2>
+      <% if entry[:statement].present? %>
+        <p class="text-sm text-gray-600 mt-1"><%= entry[:statement] %></p>
+      <% end %>
+      <p class="text-xs text-gray-400 mt-1"><%= pluralize(entry[:count], "tagging") %></p>
+    </div>
+  <% end %>
+</div>

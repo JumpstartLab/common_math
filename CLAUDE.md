@@ -54,6 +54,32 @@ EngageNY DOCXs → Aspose → Structured HTML → Parse/Import → PostgreSQL
 - Textbook indexing for reference (not reproduction) is fair use per Google Books precedent
 - See `references/` and `docs/research/research-curriculum-licensing.md`
 
+## State Standards (Interstandard integration)
+
+CommonMath's own `standards` table only carries CCSS. `StateStandardTagging`
+retargets those CCSS taggings onto other state frameworks (Colorado, Texas,
+...) via the [Interstandard](https://github.com/JumpstartLab/interstandard)
+translator API (`docs/api.md` there), and the app is browsable by state at
+`/states`.
+
+- `lib/interstandard/client.rb` — thin `Net::HTTP` client: `submit`, `fetch_report`, `poll`.
+- `lib/standards/retargeter.rb` — submits every `StandardTagging`, stores confirmed `exact`/`grade_shifted` results as `StateStandardTagging` rows, marks anything no longer confirmed `stale_at` (never deletes).
+- `lib/standards/coverage.rb` — the success-criterion query: fraction of a grade's lessons with a confirmed state code.
+
+Env vars: `INTERSTANDARD_URL` (defaults to the production map), `INTERSTANDARD_API_KEY` (required to actually call out — get one at `/api_keys` on Interstandard), `INTERSTANDARD_TARGETS` (comma-separated target framework slugs, default `co-math-2020,tx-teks-math`).
+
+Rake tasks:
+
+```bash
+bin/rails standards:retarget[co-math-2020]   # one framework
+bin/rails standards:retarget_all             # every framework in INTERSTANDARD_TARGETS
+bin/rails standards:coverage                 # grade 5, per framework (the success criterion)
+bin/rails standards:coverage[6]              # a specific grade
+bin/rails standards:coverage[all]            # every grade
+```
+
+`RetargetStandardsJob` re-runs `standards:retarget_all` weekly via Solid Queue's recurring tasks (`config/recurring.yml`), so demotions/retirements on the Interstandard side propagate without a human running the task by hand.
+
 ## Development Commands
 
 ```bash

@@ -1,0 +1,21 @@
+<h1 class="text-2xl font-bold mb-6">State Standards</h1>
+
+<% if @framework_stats.empty? %>
+  <p class="text-gray-500">
+    No lessons or topics have been retargeted to a state framework yet.
+    Run <code class="bg-gray-100 px-1 rounded">bin/rails standards:retarget[framework-slug]</code>.
+  </p>
+<% else %>
+  <div class="space-y-3">
+    <% @framework_stats.each do |stat| %>
+      <div class="bg-white rounded-lg border border-gray-200 p-5 flex justify-between items-center">
+        <h2 class="font-semibold">
+          <%= link_to stat[:framework], state_standard_path(stat[:framework]), class: "text-indigo-700 hover:underline" %>
+        </h2>
+        <p class="text-sm text-gray-500">
+          <%= pluralize(stat[:code_count], "code") %> &middot; <%= pluralize(stat[:tagging_count], "tagging") %>
+        </p>
+      </div>
+    <% end %>
+  </div>
+<% end %>

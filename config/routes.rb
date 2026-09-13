@@ -18,4 +18,8 @@ Rails.application.routes.draw do
       get :pdf
     end
   end
+
+  get "states", to: "state_standards#index", as: :state_standards
+  get "states/:framework", to: "state_standards#show", as: :state_standard
+  get "states/:framework/:code", to: "state_standards#code", as: :state_standard_code, constraints: { code: /[^\/]+/ }
 end
