@@ -8,6 +8,7 @@ class Lesson < ApplicationRecord
   has_many :supplemental_resources, as: :resourceable, dependent: :destroy
   has_many :standard_taggings, as: :taggable
   has_many :standards, through: :standard_taggings
+  has_many :state_standard_taggings, as: :taggable
 
   validates :number, presence: true, uniqueness: { scope: :topic_id }
   validates :position, presence: true

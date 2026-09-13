@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2026_03_25_120001) do
+ActiveRecord::Schema[8.1].define(version: 2026_09_13_160000) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "pg_catalog.plpgsql"
 
@@ -150,6 +150,31 @@ ActiveRecord::Schema[8.1].define(version: 2026_03_25_120001) do
     t.index ["grade_level"], name: "index_standards_on_grade_level"
   end
 
+  create_table "state_standard_taggings", force: :cascade do |t|
+    t.float "confidence"
+    t.datetime "created_at", null: false
+    t.boolean "disputed", default: false, null: false
+    t.string "edge_provenance_ref"
+    t.string "provenance"
+    t.string "relationship", null: false
+    t.datetime "retargeted_at", null: false
+    t.boolean "retired", default: false, null: false
+    t.string "review_state", null: false
+    t.datetime "stale_at"
+    t.bigint "standard_id", null: false
+    t.string "state_code", null: false
+    t.text "state_statement"
+    t.bigint "taggable_id", null: false
+    t.string "taggable_type", null: false
+    t.string "target_framework", null: false
+    t.datetime "updated_at", null: false
+    t.index ["stale_at"], name: "index_state_standard_taggings_on_stale_at"
+    t.index ["standard_id"], name: "index_state_standard_taggings_on_standard_id"
+    t.index ["taggable_type", "taggable_id", "target_framework", "state_code", "standard_id"], name: "idx_state_standard_taggings_uniqueness", unique: true
+    t.index ["taggable_type", "taggable_id"], name: "index_state_standard_taggings_on_taggable"
+    t.index ["target_framework", "state_code"], name: "idx_on_target_framework_state_code_33e601b1ea"
+  end
+
   create_table "supplemental_resources", force: :cascade do |t|
     t.text "content_html"
     t.datetime "created_at", null: false
@@ -189,5 +214,6 @@ ActiveRecord::Schema[8.1].define(version: 2026_03_25_120001) do
   add_foreign_key "lessons", "topics"
   add_foreign_key "problem_sets", "lessons"
   add_foreign_key "standard_taggings", "standards"
+  add_foreign_key "state_standard_taggings", "standards"
   add_foreign_key "topics", "content_modules"
 end

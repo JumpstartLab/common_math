@@ -1,5 +1,6 @@
 class Standard < ApplicationRecord
   has_many :standard_taggings, dependent: :destroy
+  has_many :state_standard_taggings, dependent: :destroy
 
   validates :code, presence: true, uniqueness: true
   validates :description, presence: true
