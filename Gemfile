@@ -57,7 +57,7 @@ gem "plurimath", github: "jcasimir/plurimath", branch: "main"
 # Pin plurimath's own markup dependencies: newer releases restructure APIs
 # (e.g. mml drops `mml/configuration`) that this plurimath revision requires.
 gem "mml", "= 2.0.3"
-gem "lutaml-model", "= 0.7.7"
+gem "lutaml-model", "0.8.23"
 # unitsdb (unitsml's own dependency) moved to lutaml-model ~> 0.8 as of 2.2.x,
 # which conflicts with the pin above; without this the resolver can't
 # backtrack cleanly and fails on any `bundle update`, even for unrelated gems.
