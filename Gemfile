@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "rails", "~> 8.1.2"
 # Pin json below 3.x: json 3.x breaks ActiveSupport::JSON.decode on
 # activesupport 8.1.3.1 (same issue interstandard hit and pinned around).
-gem "json", "~> 2.9"
+gem "json", "~> 3.0"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 # Use postgresql as the database for Active Record
