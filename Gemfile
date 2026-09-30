@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 8.1.2"
+gem "rails", "~> 8.1.4"
 # Pin json below 3.x: json 3.x breaks ActiveSupport::JSON.decode on
 # activesupport 8.1.3.1 (same issue interstandard hit and pinned around).
 gem "json", "~> 2.9"
